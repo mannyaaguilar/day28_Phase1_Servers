@@ -1,0 +1,36 @@
+{
+  "people": [
+
+    {
+      "name": "Scott",
+      "city": "Phoenix"},
+    {
+      "name": "Koddie",
+      "city": "Phoenix"},
+    {
+      "name": "Mark",
+      "city": "Phoenix"},
+    {
+      "name": "Ted",
+      "city": "Phoenix"},
+    {
+      "name": "Joan",
+      "city": "Phoenix"},
+    {
+      "name": "Lori",
+      "city": "Phoenix"},
+    {
+      "name": "Manny",
+      "city": "Phoenix"},
+    {
+      "name": "Zech",
+      "city": "Phoenix"},
+    {
+      "name": "Kym",
+      "city": "Phoenix"},
+    {
+      "name": "Jake",
+      "city": "Phoenix"}
+
+  ]
+}
